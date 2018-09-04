@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\ng-fundamentals",
-    "\\ng-fundamentals\\src"
+    "\\ng-fundamentals\\src",
+    "\\ng-fundamentals\\src\\app",
+    "\\ng-fundamentals\\src\\assets",
+    "\\ng-fundamentals\\src\\assets\\images"
   ],
-  "SelectedNode": "\\ng-fundamentals\\package.json",
   "PreviewInSolutionExplorer": false
 }
